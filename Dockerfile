@@ -283,6 +283,3 @@ FROM bitnami/cassandra:4.0.3-debian-10-r10
 
 # Tags: 3.0.26-debian-10-r16
 FROM bitnami/cassandra:3.0.26-debian-10-r16
-
-# Tags: 3.11.12-debian-10-r16
-FROM bitnami/cassandra:3.11.12-debian-10-r16
