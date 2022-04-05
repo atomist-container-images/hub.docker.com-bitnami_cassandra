@@ -1,24 +1,63 @@
-# Tags: latest, 4.0.3-debian-10-r39, 4.0.3, 4.0-debian-10, 4.0
+# Tags: latest, 4.0.3-debian-10-r43, 4.0.3, 4.0-debian-10, 4.0
 FROM bitnami/cassandra:latest
-FROM bitnami/cassandra:4.0.3-debian-10-r39
+FROM bitnami/cassandra:4.0.3-debian-10-r43
 FROM bitnami/cassandra:4.0.3
 FROM bitnami/cassandra:4.0-debian-10
 FROM bitnami/cassandra:4.0
 
-# Tags: 3.0.26-debian-10-r46, 3.0.26, 3.0-debian-10, 3.0
-FROM bitnami/cassandra:3.0.26-debian-10-r46
+# Tags: _
+FROM bitnami/cassandra:_
+
+# Tags: 3.11.12-debian-10-r51, 3.11.12, 3.11-debian-10, 3.11
+FROM bitnami/cassandra:3.11.12-debian-10-r51
+FROM bitnami/cassandra:3.11.12
+FROM bitnami/cassandra:3.11-debian-10
+FROM bitnami/cassandra:3.11
+
+# Tags: 3.0.26-debian-10-r50, 3.0.26, 3.0-debian-10, 3.0
+FROM bitnami/cassandra:3.0.26-debian-10-r50
 FROM bitnami/cassandra:3.0.26
 FROM bitnami/cassandra:3.0-debian-10
 FROM bitnami/cassandra:3.0
 
-# Tags: _
-FROM bitnami/cassandra:_
+# Tags: 3.11.12-debian-10-r50
+FROM bitnami/cassandra:3.11.12-debian-10-r50
 
-# Tags: 3.11.12-debian-10-r46, 3.11.12, 3.11-debian-10, 3.11
+# Tags: 3.0.26-debian-10-r49
+FROM bitnami/cassandra:3.0.26-debian-10-r49
+
+# Tags: 4.0.3-debian-10-r42
+FROM bitnami/cassandra:4.0.3-debian-10-r42
+
+# Tags: 3.11.12-debian-10-r49
+FROM bitnami/cassandra:3.11.12-debian-10-r49
+
+# Tags: 3.0.26-debian-10-r48
+FROM bitnami/cassandra:3.0.26-debian-10-r48
+
+# Tags: 4.0.3-debian-10-r41
+FROM bitnami/cassandra:4.0.3-debian-10-r41
+
+# Tags: 3.11.12-debian-10-r48
+FROM bitnami/cassandra:3.11.12-debian-10-r48
+
+# Tags: 3.0.26-debian-10-r47
+FROM bitnami/cassandra:3.0.26-debian-10-r47
+
+# Tags: 4.0.3-debian-10-r40
+FROM bitnami/cassandra:4.0.3-debian-10-r40
+
+# Tags: 3.11.12-debian-10-r47
+FROM bitnami/cassandra:3.11.12-debian-10-r47
+
+# Tags: 3.0.26-debian-10-r46
+FROM bitnami/cassandra:3.0.26-debian-10-r46
+
+# Tags: 4.0.3-debian-10-r39
+FROM bitnami/cassandra:4.0.3-debian-10-r39
+
+# Tags: 3.11.12-debian-10-r46
 FROM bitnami/cassandra:3.11.12-debian-10-r46
-FROM bitnami/cassandra:3.11.12
-FROM bitnami/cassandra:3.11-debian-10
-FROM bitnami/cassandra:3.11
 
 # Tags: 3.0.26-debian-10-r45
 FROM bitnami/cassandra:3.0.26-debian-10-r45
@@ -241,45 +280,3 @@ FROM bitnami/cassandra:3.0.26-debian-10-r21
 
 # Tags: 3.11.12-debian-10-r21
 FROM bitnami/cassandra:3.11.12-debian-10-r21
-
-# Tags: 4.0.3-debian-10-r14
-FROM bitnami/cassandra:4.0.3-debian-10-r14
-
-# Tags: 3.0.26-debian-10-r20
-FROM bitnami/cassandra:3.0.26-debian-10-r20
-
-# Tags: 3.11.12-debian-10-r20
-FROM bitnami/cassandra:3.11.12-debian-10-r20
-
-# Tags: 4.0.3-debian-10-r13
-FROM bitnami/cassandra:4.0.3-debian-10-r13
-
-# Tags: 3.0.26-debian-10-r19
-FROM bitnami/cassandra:3.0.26-debian-10-r19
-
-# Tags: 3.11.12-debian-10-r19
-FROM bitnami/cassandra:3.11.12-debian-10-r19
-
-# Tags: 4.0.3-debian-10-r12
-FROM bitnami/cassandra:4.0.3-debian-10-r12
-
-# Tags: 3.0.26-debian-10-r18
-FROM bitnami/cassandra:3.0.26-debian-10-r18
-
-# Tags: 3.11.12-debian-10-r18
-FROM bitnami/cassandra:3.11.12-debian-10-r18
-
-# Tags: 4.0.3-debian-10-r11
-FROM bitnami/cassandra:4.0.3-debian-10-r11
-
-# Tags: 3.0.26-debian-10-r17
-FROM bitnami/cassandra:3.0.26-debian-10-r17
-
-# Tags: 3.11.12-debian-10-r17
-FROM bitnami/cassandra:3.11.12-debian-10-r17
-
-# Tags: 4.0.3-debian-10-r10
-FROM bitnami/cassandra:4.0.3-debian-10-r10
-
-# Tags: 3.0.26-debian-10-r16
-FROM bitnami/cassandra:3.0.26-debian-10-r16
