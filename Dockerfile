@@ -244,39 +244,3 @@ FROM bitnami/cassandra:4.0.3-debian-10-r42
 
 # Tags: 3.11.12-debian-10-r49
 FROM bitnami/cassandra:3.11.12-debian-10-r49
-
-# Tags: 3.0.26-debian-10-r48
-FROM bitnami/cassandra:3.0.26-debian-10-r48
-
-# Tags: 4.0.3-debian-10-r41
-FROM bitnami/cassandra:4.0.3-debian-10-r41
-
-# Tags: 3.11.12-debian-10-r48
-FROM bitnami/cassandra:3.11.12-debian-10-r48
-
-# Tags: 3.0.26-debian-10-r47
-FROM bitnami/cassandra:3.0.26-debian-10-r47
-
-# Tags: 4.0.3-debian-10-r40
-FROM bitnami/cassandra:4.0.3-debian-10-r40
-
-# Tags: 3.11.12-debian-10-r47
-FROM bitnami/cassandra:3.11.12-debian-10-r47
-
-# Tags: 3.0.26-debian-10-r46
-FROM bitnami/cassandra:3.0.26-debian-10-r46
-
-# Tags: 4.0.3-debian-10-r39
-FROM bitnami/cassandra:4.0.3-debian-10-r39
-
-# Tags: 3.11.12-debian-10-r46
-FROM bitnami/cassandra:3.11.12-debian-10-r46
-
-# Tags: 3.0.26-debian-10-r45
-FROM bitnami/cassandra:3.0.26-debian-10-r45
-
-# Tags: 4.0.3-debian-10-r38
-FROM bitnami/cassandra:4.0.3-debian-10-r38
-
-# Tags: 3.11.12-debian-10-r45
-FROM bitnami/cassandra:3.11.12-debian-10-r45
