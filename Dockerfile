@@ -235,12 +235,3 @@ FROM bitnami/cassandra:4.0.3-debian-10-r43
 
 # Tags: 3.11.12-debian-10-r50
 FROM bitnami/cassandra:3.11.12-debian-10-r50
-
-# Tags: 3.0.26-debian-10-r49
-FROM bitnami/cassandra:3.0.26-debian-10-r49
-
-# Tags: 4.0.3-debian-10-r42
-FROM bitnami/cassandra:4.0.3-debian-10-r42
-
-# Tags: 3.11.12-debian-10-r49
-FROM bitnami/cassandra:3.11.12-debian-10-r49
